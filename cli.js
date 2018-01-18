@@ -21,14 +21,4 @@ const cli = meow(`
 	  I love ponies
 `);
 
-
-class flyer {
-
-	constructor () {
-
-	}
-
-
-}
-
 render(h(Ui, cli.flags));
