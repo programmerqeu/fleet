@@ -1,9 +1,9 @@
 {
-	"name": "flyer",
+	"name": "fleet",
 	"version": "0.0.0",
 	"description": "Manage your concourse pipeline",
 	"license": "MIT",
-	"repository": "vergissberlin/flyer",
+	"repository": "vergissberlin/fleet",
 	"author": {
 		"name": "André Lademann",
 		"email": "vergissberlin@googlemail.com",

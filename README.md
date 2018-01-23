@@ -1,4 +1,4 @@
-# flyer [![Build Status](https://travis-ci.org/vergissberlin/flyer.svg?branch=master)](https://travis-ci.org/vergissberlin/flyer)
+# fleet [![Build Status](https://travis-ci.org/vergissberlin/fleet.svg?branch=master)](https://travis-ci.org/vergissberlin/fleet)
 
 > Manage your concourse pipeline
 
@@ -6,25 +6,25 @@
 ## Install
 
 ```
-$ npm install --global flyer
+$ npm install --global fleet
 ```
 
 
 ## Usage
 
 ```js
-$ flyer --help
+$ fleet --help
 
   Usage
-    flyer [input]
+    fleet [input]
 
   Options
     --name  Lorem ipsum [Default: false]
 
   Examples
-    $ flyer
+    $ fleet
     I love Ink
-    $ flyer --name=ponies
+    $ fleet --name=ponies
     I love ponies
 ```
 

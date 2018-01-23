@@ -9,15 +9,15 @@ const Ui = importJsx('./ui');
 
 const cli = meow(`
 	Usage
-	  $ flyer [input]
+	  $ fleet [input]
 
 	Options
 	  --name  Lorem ipsum [Default: false]
 
 	Examples
-	  $ flyer
+	  $ fleet
 	  I love Ink
-	  $ flyer --name=ponies
+	  $ fleet --name=ponies
 	  I love ponies
 `);
 
