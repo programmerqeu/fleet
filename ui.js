@@ -1,7 +1,7 @@
-'use strict';
+'use strict'
 
-const {h, Component, Text} = require('ink');
-const PropTypes = require('prop-types');
+const {h, Component, Text} = require('ink')
+const PropTypes = require('prop-types')
 
 class UI extends Component {
 	render({name}) {
@@ -9,16 +9,16 @@ class UI extends Component {
 			<Text green>
 				I love {name}
 			</Text>
-		);
+		)
 	}
 }
 
 UI.propTypes = {
 	name: PropTypes.string
-};
+}
 
 UI.defaultProps = {
 	name: 'Ink'
-};
+}
 
-module.exports = UI;
+module.exports = UI

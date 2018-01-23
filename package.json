@@ -7,7 +7,7 @@
 	"author": {
 		"name": "André Lademann",
 		"email": "vergissberlin@googlemail.com",
-		"url": "andrelademann.de"
+		"url": "https://andrelademann.de"
 	},
 	"bin": "cli.js",
 	"engines": {
@@ -53,6 +53,7 @@
 		}
 	},
 	"xo": {
+		"semicolon": false,
 		"extends": [
 			"xo-react"
 		],
