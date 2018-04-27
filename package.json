@@ -1,7 +1,7 @@
 {
 	"name": "fleet",
 	"version": "0.0.0",
-	"description": "Manage your concourse pipeline",
+	"description": "🛫  Manage your concourse teams and pipelines",
 	"license": "MIT",
 	"repository": "vergissberlin/fleet",
 	"author": {
@@ -27,7 +27,9 @@
 		"ink": "^0.2.1",
 		"ink-image": "^1.1.1",
 		"meow": "^3.7.0",
-		"prop-types": "^15.5.10"
+		"prop-types": "^15.5.10",
+		"read-yaml": "^1.1.0",
+		"update-notifier": "^2.5.0"
 	},
 	"devDependencies": {
 		"ava": "^0.20.0",
