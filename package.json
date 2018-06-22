@@ -24,20 +24,20 @@
 		""
 	],
 	"dependencies": {
-		"ink": "^0.2.1",
+		"ink": "^0.5.0",
 		"ink-image": "^1.1.1",
-		"meow": "^3.7.0",
+		"meow": "^5.0.0",
 		"prop-types": "^15.5.10",
 		"read-yaml": "^1.1.0",
 		"update-notifier": "^2.5.0"
 	},
 	"devDependencies": {
-		"ava": "^0.20.0",
+		"ava": "^0.25.0",
 		"babel-plugin-transform-react-jsx": "^6.24.1",
-		"eslint-config-xo-react": "^0.13.0",
+		"eslint-config-xo-react": "^0.16.0",
 		"eslint-plugin-react": "^7.1.0",
 		"import-jsx": "^1.2.0",
-		"xo": "^0.18.2"
+		"xo": "^0.21.1"
 	},
 	"ava": {
 		"babel": {
