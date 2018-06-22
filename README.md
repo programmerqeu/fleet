@@ -1,4 +1,4 @@
-# fleet [![Build Status](https://travis-ci.org/vergissberlin/fleet.svg?branch=master)](https://travis-ci.org/vergissberlin/fleet)
+# fleet [![Build Status](https://travis-ci.org/vergissberlin/fleet.svg?branch=master)](https://travis-ci.org/vergissberlin/fleet) [![Greenkeeper badge](https://badges.greenkeeper.io/vergissberlin/fleet.svg)](https://greenkeeper.io/)
 
 > Manage your concourse pipeline
 
